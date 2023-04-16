@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<restaurants>
+  
+  <restaurant delivery="Y">
+    <name>McDonalds</name>
+    <contact>
+      <phone>4809661764</phone>
+      <email>customerservices@mcdonalds.co.us</email>
+    </contact>
+    <website facebook="https://www.facebook.com/McDonalds">
+      https://www.mcdonalds.com/us/en-us.html
+    </website>
+  </restaurant>
+
+  <restaurant delivery="Y">
+    <name>Chipotle</name>
+    <contact>
+      <phone>4802738800</phone>
+      <email>Mediarelations@chipotle.com</email>
+    </contact>
+    <website facebook="https://www.facebook.com/chipotle">
+      https://www.chipotle.com/
+    </website>
+  </restaurant>
+
+  <restaurant delivery="Y">
+    <name>Macaroni Grill</name>
+    <contact>
+      <phone>6235808681</phone>
+      <email>marketing@macgrill.com</email>
+    </contact>
+    <website facebook="https://www.facebook.com/RomanosMacaroniGrill">
+      http://www.macaronigrill.com/
+    </website>
+  </restaurant>
+
+  <restaurant delivery="Y">
+    <name>Olive Garden</name>
+    <contact>
+      <phone>8775009706</phone>
+      <email>Sherring@olivegarden.com</email>
+    </contact>
+    <website facebook="https://www.facebook.com/OliveGarden">
+      https://www.olivegarden.com/home
+    </website>
+  </restaurant>
+
+  <restaurant delivery="Y">
+    <name>Red Robin's</name>
+    <contact>
+      <phone>8777336543</phone>
+      <email>guest-support@redrobin.com</email>
+    </contact>
+    <website facebook="https://www.facebook.com/RedRobinBurgers">
+      https://www.redrobin.com/
+    </website>
+  </restaurant>
+
+
+</restaurants>
